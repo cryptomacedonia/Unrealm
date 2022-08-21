@@ -133,7 +133,7 @@ public protocol RealmableBase {
 	*/
 	static func indexedProperties() -> [String]
 
-	init()
+	//init()
 }
 
 public extension RealmableBase {
